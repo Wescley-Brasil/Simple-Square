@@ -32,3 +32,5 @@ O jogador poderá mover-se pelo mapa, poderá coletar itens que retarda os inimi
 Poderá mover-se para a esquerda, direita, para cima ou para baixo.
 
 ### ♣ Diagrama navegação
+
+![alt text](https://raw.githubusercontent.com/Wescley-Brasil/Simple-Square/master/Diagrama.png)
